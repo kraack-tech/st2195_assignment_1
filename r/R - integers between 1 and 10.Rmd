@@ -17,8 +17,6 @@ options(tinytex.verbose = TRUE)
 ### Containing an R script that prints all integers between 1 and 10 (including 1 and 10) to screen
 
 
-
-
 ```{r}
 a<-seq(1,10)
 
